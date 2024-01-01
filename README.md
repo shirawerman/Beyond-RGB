@@ -1,17 +1,19 @@
 # Beyond-RGB
 A real- world dataset comprising thousands of multispectral and RGB images in diverse real world and lab conditions.
 
-Note that the paper describing this dataset is avaliable here: https://openaccess.thecvf.com/content/WACV2024/papers/Glatt_Beyond_RGB_A_Real_World_Dataset_for_Multispectral_Imaging_in_WACV_2024_paper.pdf. 
+Note that the paper describing this dataset is avaliable here: [https://openaccess.thecvf.com/content/WACV2024/papers/Glatt_Beyond_RGB_A_Real_World_Dataset_for_Multispectral_Imaging_in_WACV_2024_paper.pdf.](https://openaccess.thecvf.com/content/WACV2024/html/Glatt_Beyond_RGB_A_Real_World_Dataset_for_Multispectral_Imaging_in_WACV_2024_paper.html) 
 
-When publishing result based on this database, please cite it as:
+When publishing results based on this database, please cite it as:
 
 ```
 
-@InProceedings{Glatt_beyondRGB_2024,
-    author    = {Glatt, Ortal and Ater, Yotam and Kim, Woo-Shik and Werman, Shira and Berby, Oded, and Zini, Yael and Zelinger, Shay and Lee, Sangyoon and Choi, Heejin and Soloveichik, Evgeny}
+@InProceedings{Glatt_2024_WACV,
+    author    = {Glatt, Ortal and Ater, Yotam and Kim, Woo-Shik and Werman, Shira and Berby, Oded and Zini, Yael and Zelinger, Shay and Lee, Sangyoon and Choi, Heejin and Soloveichik, Evgeny},
     title     = {Beyond RGB: A Real World Dataset for Multispectral Imaging in Mobile Devices},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
     month     = {January},
     year      = {2024},
+    pages     = {4344-4354}
 }
 
 ```
