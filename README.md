@@ -1,6 +1,22 @@
 # Beyond-RGB
 A real- world dataset comprising thousands of multispectral and RGB images in diverse real world and lab conditions.
 
+Note that the paper describing this dataset is avaliable here: https://openaccess.thecvf.com/content/WACV2024/papers/Glatt_Beyond_RGB_A_Real_World_Dataset_for_Multispectral_Imaging_in_WACV_2024_paper.pdf. 
+
+When publishing result based on this database, please cite it as:
+
+```
+
+@InProceedings{Glatt_beyondRGB_2024,
+    author    = {Glatt, Ortal and Ater, Yotam and Kim, Woo-Shik and Werman, Shira and Berby, Oded, and Zini, Yael and Zelinger, Shay and Lee, Sangyoon and Choi, Heejin and Soloveichik, Evgeny}
+    title     = {Beyond RGB: A Real World Dataset for Multispectral Imaging in Mobile Devices},
+    month     = {January},
+    year      = {2024},
+}
+
+```
+
+
 Dataset:
 
 [https://1drv.ms/u/s!AheBo1Cre0p_gYhXovaSSrG3LNo1Pg?e=V17jcM](url)
@@ -62,3 +78,5 @@ Directory tree **beyondRGB**:
     -  NT
     -  WT
   - ...
+
+For privacy reason faces and car plates were blurred. Images with blurred regions have a corresponding json which contains the blurr bounding box regions.
