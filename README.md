@@ -74,11 +74,11 @@ Directory tree **beyondRGB**:
         
   -  ...
 
-- field (field images, outdoor and indoor)
+- outdoor (field images, outdoor and indoor)
   - 1
     -  CRI
     -  NT
     -  WT
   - ...
 
-For privacy reason faces and car plates were blurred. Images with blurred regions have a corresponding json which contains the blurr bounding box regions.
+For privacy reasons faces and car plates were blurred. Images with blurred regions have a corresponding json which contains the blurr bounding box regions.
