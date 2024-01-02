@@ -6,13 +6,13 @@ The dataset is introduced in ***Beyond RGB: A Real World Dataset for Multispectr
 [https://openaccess.thecvf.com/content/WACV2024/papers/Glatt_Beyond_RGB_A_Real_World_Dataset_for_Multispectral_Imaging_in_WACV_2024_paper.pdf.](https://openaccess.thecvf.com/content/WACV2024/html/Glatt_Beyond_RGB_A_Real_World_Dataset_for_Multispectral_Imaging_in_WACV_2024_paper.html) 
 
 <p align="center">
-  <img width="750px" src="https://github.com/shirawerman/Beyond-RGB/blob/main/data/field_git.png" alt="Sample field images from Beyond RGB dataset"><br>
+  <img width="750px" src="https://github.com/shirawerman/Beyond-RGB/blob/main/imgs/field_git.png" alt="Sample field images from Beyond RGB dataset"><br>
     Sample lab images from Beyond RGB dataset
 </p>
 
 
 <p align="center">
-  <img width="750px" src="https://github.com/shirawerman/Beyond-RGB/blob/main/data/clb_git.png" alt="Sample lab images from Beyond RGB dataset"><br>
+  <img width="750px" src="https://github.com/shirawerman/Beyond-RGB/blob/main/imgs/clb_git.png" alt="Sample lab images from Beyond RGB dataset"><br>
     Sample lab images from Beyond RGB dataset
 </p>
 
