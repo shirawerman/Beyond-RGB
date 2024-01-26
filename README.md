@@ -33,13 +33,14 @@ When using this dataset, please cite:
 
 Dataset download is available via
 
-[https://1drv.ms/u/s!AheBo1Cre0p_gYhXovaSSrG3LNo1Pg?e=V17jcM](url)
+[https://1drv.ms/u/s!AheBo1Cre0p_gYhXovaSSrG3LNo1Pg?e=V17jcM](https://1drv.ms/u/s!AheBo1Cre0p_gYhXovaSSrG3LNo1Pg?e=V17jcM)
 
-File hashes: 
 
-c8a9cc9a0e50c9e9df988bf6814ac2a15cff84b9f649f889656d04aa64cb0052
+For verification the file hashes for the zip file are:
 
-f4b36f3302ce8d6c83e4ec76f7b2c1b9
+sha256: c8a9cc9a0e50c9e9df988bf6814ac2a15cff84b9f649f889656d04aa64cb0052
+
+md5: f4b36f3302ce8d6c83e4ec76f7b2c1b9
 
 
 <br/><br/>
