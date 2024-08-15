@@ -99,3 +99,6 @@ md5: f4b36f3302ce8d6c83e4ec76f7b2c1b9
   - ...
 
 [For privacy reasons faces and car plates were blurred. Images with blurred areas have a corresponding json file, which contains the blurred areas bounding boxes (\<device\>_blurred_areas_detection.json).]
+
+
+The train / validation / test lists contain the split used to train and test the model introduced in our paper.
