@@ -102,3 +102,4 @@ md5: f4b36f3302ce8d6c83e4ec76f7b2c1b9
 
 
 The train / validation / test lists contain the split used to train and test the model introduced in our paper.
+The example code directory contains examples of how to process the RGB H5 files.
