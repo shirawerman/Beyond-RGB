@@ -7,7 +7,7 @@ The dataset is introduced in ***Beyond RGB: A Real World Dataset for Multispectr
 
 <p align="center">
   <img width="750px" src="https://github.com/shirawerman/Beyond-RGB/blob/main/imgs/field_git.png" alt="Sample field images from Beyond RGB dataset"><br>
-    Sample lab images from Beyond RGB dataset
+    Sample field images from Beyond RGB dataset
 </p>
 
 
@@ -56,7 +56,7 @@ The dataset contains scenes from the lab (clb folder) and scenes from the field 
       
         -   CRI
           
-          -   CRI.txt (illuminant Spectophotometer measurement)
+          -   CRI.txt (illuminant Spectophotometer measurement in the range 380-730 with 10nm intervals)
           
         -   NT
           
