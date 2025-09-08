@@ -31,7 +31,11 @@ When using this dataset, please cite:
 
 ```
 
-Dataset download is available via
+Dataset download is available in parts via
+
+https://zenodo.org/records/16848482 
+
+or in one part via
 
 [https://1drv.ms/u/s!AheBo1Cre0p_gYhXovaSSrG3LNo1Pg?e=V17jcM](https://1drv.ms/u/s!AheBo1Cre0p_gYhXovaSSrG3LNo1Pg?e=V17jcM)
 
